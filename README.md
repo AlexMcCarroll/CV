@@ -2,25 +2,6 @@
 
 I possess an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and military training has made me a confident, team player with a high degree of personal perseverance.
 
-## Skills
-
-### Problem Solving
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-### Analytics
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Projects
 
 ## Work Experience
@@ -53,24 +34,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 ### Makers Academy (February 2018 to May 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+- Curious and passionate about code and problem solving: complete Kata's in my spare time.
+- Fast, independent learner: proactive in learning what was needed for each project at Makers.
+- Great collaborator: experienced in pair programming, mobbing, and using feedback to improve team dynamics.
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, JQuery, Node.js
+- RSpec, Jasmine, Chai
+- PostgreSQL, MongoDB
 
 ### University of Exeter (2014 to 2017)
-
 - History, BA
 - 2.1 with honours
-- Specialised in international gender and social studies, British colonial   history, and Middle Eastern history
+- Specialised in international gender and social studies, British colonial history, and Middle Eastern history
 
 ### Fettes College, Edinburgh (2009 to 2014)
-
 #### A2 GCE (A level) (2014)
 - Mathematics A
 - Chemistry A
@@ -91,15 +69,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Awarded all-rounder scholarship
 
 ## Personal Achievements
-
 -	Duke of Edinburgh Gold Award
 -	Selected to train with the British Telemark Ski Team
 -	Overall female runner-up at the British and Army Telemark Ski Championships in 2017
 -	Selected to train with the Scotland Lacrosse team in 2012 - 2014
 
 ## Status
-
 - UK and USA citizenship
 - Hong Kong permanent residency
 
 ## Further Interests
+I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the Christina Noble’s Foundation in Ho Chi Minh City. I love being active thus, I also enjoy skiing, ski touring, sailing, diving, rock climbing, hiking and triathlon. Currently, I am training with the aim to complete a Half-Ironman triathlon in Cascais, Portugal in September 2018.
