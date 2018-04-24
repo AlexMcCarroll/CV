@@ -4,7 +4,7 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 **[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)**
 
 ## Projects
-* **[Acebook Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)** | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)** - A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS.
+* **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)** | **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)**  - A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS.
 
 ## Work Experience
 
