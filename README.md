@@ -1,7 +1,7 @@
 # Alexandra McCarroll
+**[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)**
 
 I am a full-stack software developer who is keen to learn new stacks! In a previous life I read History which provided me with an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and military training has made me a confident, team player with a high degree of personal perseverance.
-**[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)**
 
 ## Projects
 * **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)** | **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)**  - A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS.
