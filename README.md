@@ -1,5 +1,5 @@
 # Alexandra McCarroll
-**[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)**
+**[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)** | **[Blog](https://medium.com/@alexandra_79686)**
 
 I am a full-stack software developer who is keen to learn new stacks! In a previous life I read History which provided me with an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and military training has made me a confident, team player with a high degree of personal perseverance.
 
