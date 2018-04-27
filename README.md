@@ -7,7 +7,7 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 
 | Project Name | Description | Language | Test Framework | Links |
 |-------------|---------|-----------|--------|---------|
-| Acebook | A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS. | Ruby on Rails, HTML/CSS, AWS Continuous Deployment | Rspec, Cabybara  | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)**; **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)** |
+| Acebook | A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS. | Ruby on Rails, HTML/CSS, AWS Continuous Deployment | Rspec, Cabybara  | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)**, **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)** |
 | Bookmark manager | Built a web app that stores web bookmarks in a database. | Ruby, HTML/CSS, SQL | Rspec | **[Github Repo](https://github.com/AlexMcCarroll/bookmark-manager)** |
 | Bank Tech Test | Using the command line you can deposit and withdraw money from an account where all the details are stored in an array). You can also print the account history on the command line and see what your bank balance is. | Ruby | Rspec | **[Bank Repo](https://github.com/AlexMcCarroll/bank-tech-test)** |
 | 3AI-BnB |  |  |  |  |  |
