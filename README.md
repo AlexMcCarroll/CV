@@ -7,10 +7,10 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 
 | Project Name | Description | Language | Test Framework | Links |
 |-------------|---------|-----------|--------|---------|
-| Acebook | A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS. | Ruby on Rails, HTML/CSS, AWS Continuous Deployment | Rspec, Cabybara  | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)**, **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)** |
-| Bookmark manager | Built a web app that stores web bookmarks in a database. | Ruby, HTML/CSS, SQL | Rspec | **[Github Repo](https://github.com/AlexMcCarroll/bookmark-manager)** |
+| Acebook | A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS. | Ruby on Rails, AWS Continuous Deployment, HTML/CSS | Rspec, Cabybara  | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)**, **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)** |
+| Bookmark manager | Built a web app that stores web bookmarks in a database. | Ruby, SQL, HTML/CSS | Rspec | **[Github Repo](https://github.com/AlexMcCarroll/bookmark-manager)** |
 | Bank Tech Test | Using the command line you can deposit and withdraw money from an account where all the details are stored in an array). You can also print the account history on the command line and see what your bank balance is. | Ruby | Rspec | **[Bank Repo](https://github.com/AlexMcCarroll/bank-tech-test)** |
-| 3AI-BnB | Built a full stack web app in a team mimicking AirBnB using new technologies. | Javascript, Node.js, Express | Jasmine, Mocha, Chai, Zombie | **[3AI-BnB Repo](https://github.com/AlexMcCarroll/3AI-BnB)** |
+| 3AI-BnB | Built a full stack web app in a team mimicking AirBnB using new technologies. | Javascript, Node.js, Express, HTML/CSS | Jasmine, Mocha, Chai, Zombie | **[3AI-BnB Repo](https://github.com/AlexMcCarroll/3AI-BnB)** |
 
 ## Work Experience
 
@@ -29,6 +29,7 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 ### Makers Academy (February 2018 to May 2018)
 - Curious and passionate about code and problem solving: complete Kata's in my spare time.
 - Fast, independent learner: proactive in learning what was needed for each project at Makers.
+- Well rounded knowledge base: enjoy reading articles and discussing code.
 - Great collaborator: experienced in pair programming, mobbing, and using feedback to improve team dynamics.
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -74,4 +75,4 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 - Hong Kong permanent residency
 
 ## Further Interests
-I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the Christina Noble’s Foundation in Ho Chi Minh City. I love being active thus, I also enjoy skiing, ski touring, sailing, diving, rock climbing, hiking and triathlon. Currently, I am training with the aim to complete a Half-Ironman triathlon in Cascais, Portugal in September 2018.
+I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling and running keeps me active and I also enjoy skiing, ski touring, sailing, diving, rock climbing, hiking and triathlon. Currently, I am training with the aim to complete a Half-Ironman triathlon in Cascais, Portugal in September 2018.
