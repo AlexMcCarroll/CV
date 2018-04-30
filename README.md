@@ -74,5 +74,5 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 - UK and USA citizenship
 - Hong Kong permanent residency
 
-## Further Interests
-I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling and running keeps me active and I also enjoy skiing, ski touring, sailing, diving, rock climbing, hiking and triathlon. Currently, I am training with the aim to complete a Half-Ironman triathlon in Cascais, Portugal in September 2018.
+## About Me
+Born and raised in Hong Kong, I attended Fettes College in Edinburgh on an all- rounder scholarship. I then went on to read History at the University of Exeter where I was awarded a second class, first honours degree. I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling and running keeps me active and I also enjoy skiing, ski touring, sailing, diving, rock climbing, hiking and triathlon. Currently, I am training with the aim to complete a Half-Ironman triathlon in Cascais, Portugal in September 2018.
