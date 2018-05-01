@@ -12,6 +12,22 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 | Bank Tech Test | Using the command line you can deposit and withdraw money from an account where all the details are stored in an array). You can also print the account history on the command line and see what your bank balance is. | Ruby | Rspec | **[Bank Repo](https://github.com/AlexMcCarroll/bank-tech-test)** |
 | 3AI-BnB | Built a full stack web app in a team mimicking AirBnB using new technologies. | Javascript, Node.js, Express, HTML/CSS | Jasmine, Mocha, Chai, Zombie | **[3AI-BnB Repo](https://github.com/AlexMcCarroll/3AI-BnB)** |
 
+## Skills
+
+- Core Technologies: Ruby, Rails, Sinatra, JavaScript, JQuery, Node.js, Python
+- Testing Frameworks: RSpec, Cabybara, Jasmine, Mocha, Chai, Zombie, Unittest
+- Databases: PostgreSQL, TablePlus, SQL Server, MongoDB
+- Deployment: AWS, Heroku, Travis
+- Version Control: Git, Github
+- Process: TDD, BDD, Pair programming, Mobbing, Agile
+
+### Problem Solving
+
+### Empathy
+
+### Communication & Teamwork
+
+
 ## Work Experience
 
 **Wales International, Hong Kong** (July 2017 to November 2017)    
@@ -27,15 +43,18 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 ## Education
 
 ### Makers Academy (February 2018 to May 2018)
-- Curious and passionate about code and problem solving: complete Kata's in my spare time.
-- Fast, independent learner: proactive in learning what was needed for each project at Makers.
-- Well rounded knowledge base: enjoy reading articles and discussing code.
-- Great collaborator: experienced in pair programming, mobbing, and using feedback to improve team dynamics.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript, JQuery, Node.js
-- RSpec, Jasmine, Chai
-- PostgreSQL, MongoDB
+
+- Makers Academy is Europe's leading and most selective development bootcamp, a 16-week intensive course focusing on:
+  - Software Craftsmanship
+  - Agile Methodologies
+  - Object-oriented Design
+  - Behaviour and Test Driven Development
+  - Pair Programming
+  - XP Values
+
+### GRE (November 2017)
+- Verbal Reasoning 80th percentile
+- Quantitative Reasoning 73rd percentile
 
 ### University of Exeter (2014 to 2017)
 - History, BA
