@@ -7,17 +7,17 @@ I am a full-stack software developer who is keen to learn new stacks! In a previ
 
 | Project Name | Description | Language | Test Framework | Links |
 |-------------|---------|-----------|--------|---------|
-| Full$taxx Acebook | A facebook clone built for a two-week Ruby on Rails project, cloud hosted by AWS. | Ruby on Rails, AWS Continuous Deployment, HTML/CSS | Rspec, Cabybara  | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)**, **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)**, **[Blog](https://medium.com/full-taxx)** |
-| Bookmark manager | Built a web app that stores web bookmarks in a database. | Ruby, SQL, HTML/CSS | Rspec | **[Github Repo](https://github.com/AlexMcCarroll/bookmark-manager)** |
-| Bank Tech Test | Using the command line you can deposit and withdraw money from an account where all the details are stored in an array). You can also print the account history on the command line and see what your bank balance is. | Ruby | Rspec | **[Bank Repo](https://github.com/AlexMcCarroll/bank-tech-test)** |
+| Full$taxx Acebook | Social network app built for a two-week team project at Makers Academy. A more complex web app with multiple database relationships, user authentication, posting, uploading and storing images. First use of continuous integration/deployment pipeline via Travis CI to both staging and production servers on amazon web services. | Ruby on Rails, AWS Continuous Deployment, HTML/CSS, JavaScript, JQuery, Paperclip, Devise, AWS, Travis CI | Rspec, Cabybara, Selenium, simpleCov, CodeClimate | **[Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com)**, **[Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx)**, **[Blog](https://medium.com/full-taxx)** |
+| Bookmark manager | A web app that stores web bookmarks in a database developed implementing MVC principles. | Ruby, Rake, SQL, TablePlus, HTML/CSS | Rspec, Capybara | **[Github Repo](https://github.com/AlexMcCarroll/bookmark-manager)** |
+| Bank Tech Test | Using the command line you can deposit and withdraw money from an account where all the details are stored in an array. You can also print the account history on the command line and see what your bank balance is. This project was developed using single responsibility principles, and encapsulation. | Ruby | Rspec | **[Bank Repo](https://github.com/AlexMcCarroll/bank-tech-test)** |
 | 3AI-BnB | Built a full stack web app in a team mimicking AirBnB using new technologies. | Javascript, Node.js, Express, HTML/CSS | Jasmine, Mocha, Chai, Zombie | **[3AI-BnB Repo](https://github.com/AlexMcCarroll/3AI-BnB)** |
 
 ## Skills
 
 - Core Technologies: Ruby, Rails, Sinatra, JavaScript, JQuery, Node.js, Python
-- Testing Frameworks: RSpec, Cabybara, Jasmine, Mocha, Chai, Zombie, Unittest
+- Testing Frameworks: RSpec, Cabybara, Selenium, Jasmine, Mocha, Chai, Zombie, simpleCov, CodeClimate, Unittest
 - Databases: PostgreSQL, TablePlus, SQL Server, MongoDB
-- Deployment: AWS, Heroku, Travis
+- Deployment: AWS, Heroku, Travis CI
 - Version Control: Git, Github
 - Process: TDD, BDD, Pair programming, Mobbing, Agile
 
