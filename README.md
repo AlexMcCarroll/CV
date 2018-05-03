@@ -74,7 +74,7 @@ I consider myself to be both friendly and assertive which helps when working in 
 ## Volunteer Experience
 
 **Christina Noble Children's Foundation, Hong Kong** (July 2017 to January 2018)
-*Voluneer and Events Team Member*
+*Volunteer and Events Team Member*
 -	Assist with administrative tasks such as budget reports, provide IT support, and implement fundraising ideas.
 -	Member of the events team, helping to organise and run CNCF events.
 
