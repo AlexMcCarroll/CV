@@ -22,11 +22,13 @@ I am a full-stack software developer who is keen to learn new technologies! In a
 - Version Control: Git, Github
 
 ### Problem Solving
+My process when I attempt to problem solve starts with breaking down the problem into smaller problems and translating them into 'layman's terms' and then I endeavor to solve those smaller issues in the simplest way possible. 
 
 ### Empathy
+In both my professional and personal life I strive to view a situation from another person's perspective in order to understand their actions and behaviour. This method has really helped me to connect with many different personality types. 
 
 ### Communication & Teamwork
-
+I consider myself to be both friendly and assertive which helps when working in a team because I feel as if I can easily communicate with other team members about what I am thinking, also I often mind I am good at mediating conversations when people disagree on a particular idea or task.
 
 ## Work Experience
 
