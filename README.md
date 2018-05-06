@@ -89,7 +89,7 @@ I consider myself to be both friendly and assertive which helps when working in 
 ## Personal Achievements
 -	Duke of Edinburgh Gold Award
 -	Selected to train with the British Telemark Ski Team
--	Overall female runner-up at the British and Army Telemark Ski Championships in 2017
+-	Overall female runner-up at the Army Telemark Ski Championships in 2017
 -	Selected to train with the Scotland Lacrosse team in 2012 - 2014
 
 ## Status
