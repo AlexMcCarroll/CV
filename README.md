@@ -32,22 +32,22 @@ I consider myself to be both friendly and assertive which helps when working in 
 
 ## Work Experience
 
-**Wales International, Hong Kong** (July 2017 to November 2017)    
+**Wales International, Hong Kong** (July 2017 to November 2017)     
 *Tutor*  
 -	Prepared lesson material and taught English as a second language.
 -	Skills gained in time management, leadership, patience and communication.
 
-**University of Exeter University Officer Training Core, Exeter** (October 2015 to July 2017)   
+**University of Exeter University Officer Training Core, Exeter** (October 2015 to July 2017)     
 *Officer Cadet*  
 - Completed training as laid out by the Royal Military Academy Sandhurst.
 -	Focused on leadership training learning how to manage soldiers, equipment on the battlefield including attack planning, successfully delivering and executing orders, and directing a constructive debrief post-exercise to ensure the welfare of those under command.
 
-**Mairead Rattigan at Des Voeux Chambers, Hong Kong** (August 2015)
+**Mairead Rattigan at Des Voeux Chambers, Hong Kong** (August 2015)       
 *Intern*
 - Shadowed Ms Rattigan, a practicing barrister-at-law specialising in family and matrimonial law.
 - Aided Ms Rattigan and her pupil in meetings and at court disputes with her clients.
 
-**Standard Chartered Bank, Hong Kong** (December 2012 and August 2013)
+**Standard Chartered Bank, Hong Kong** (December 2012 and August 2013)      
 *Intern*
 - Kept minutes for meetings with clients for the brand management team. 
 - Tasked to develop and present a brand audit.
