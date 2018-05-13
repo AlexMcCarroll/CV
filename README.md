@@ -66,8 +66,8 @@ I consider myself to be both friendly and assertive which helps when working in 
   - XP Values
 
 ### GRE (November 2017)
-- Verbal Reasoning 80th percentile
-- Quantitative Reasoning 73rd percentile
+- Verbal Reasoning: 158, 80th percentile
+- Quantitative Reasoning: 159, 73rd percentile
 
 ### University of Exeter (2014 to 2017)
 - History, BA
@@ -107,4 +107,4 @@ I consider myself to be both friendly and assertive which helps when working in 
 - Hong Kong permanent residency
 
 ## About Me
-Born and raised in Hong Kong, I attended Fettes College in Edinburgh on an all-rounder scholarship. I then went on to read History at the University of Exeter where I was awarded a second class, first honours degree. I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling, and running keeps me active, and I also enjoy skiing, ski-touring, sailing, diving, rock climbing, hiking, and triathlon. Currently, I am training with the aim to complete a Half-Ironman triathlon in Cascais, Portugal in September 2018.
+Born and raised in Hong Kong, I attended Fettes College in Edinburgh on an all-rounder scholarship. I then went on to read History at the University of Exeter where I was awarded a second class, first honours degree. I enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling, and running keeps me active, and I also enjoy skiing, ski-touring, sailing, diving, rock climbing, hiking, and triathlon.
