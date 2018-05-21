@@ -1,7 +1,7 @@
 # Alexandra McCarroll
 **[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)** | **[Blog](https://medium.com/@alexandra_79686)** |  **[Projects](https://github.com/AlexMcCarroll/CV#projects)** | **[Work Experience](https://github.com/AlexMcCarroll/CV#work-experience)** | **[Education](https://github.com/AlexMcCarroll/CV#education)** | **[Volunteer Experience](https://github.com/AlexMcCarroll/CV#volunteer-experience)** | **[Personal](https://github.com/AlexMcCarroll/CV#personal-achievements)**
 
-I am a full-stack software developer who is keen to learn new technologies! In a previous life I read History which provided me with an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and military training has made me a confident, team player with a high degree of personal perseverance.
+I am a full-stack software developer who is keen to learn new technologies! In a previous life I read History which provided me with an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and reservist military training has made me a confident, team player with a high degree of personal perseverance.
 
 ## Projects
 
