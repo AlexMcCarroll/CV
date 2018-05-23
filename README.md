@@ -16,7 +16,7 @@ I am a full-stack software developer who is keen to learn new technologies! In a
 ## Skills
 
 - Core Technologies: Ruby, Rails, Sinatra, JavaScript, JQuery, Node.js, Python
-- Testing Frameworks: RSpec, Cabybara, Selenium, Jasmine, Mocha, Chai, Zombie, simpleCov, CodeClimate, Unittest, DrSerpent🐍
+- Testing Frameworks: RSpec, Capybara, Selenium, Jasmine, Mocha, Chai, Zombie, simpleCov, CodeClimate, Unittest, DrSerpent🐍
 - Databases: PostgreSQL, TablePlus, SQL Server, MongoDB
 - Deployment: AWS, Heroku, Travis CI
 - Version Control: Git, Github
