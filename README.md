@@ -1,7 +1,7 @@
 # Alexandra McCarroll
 **[Linkedin](https://www.linkedin.com/in/alexandra-mccarroll-469108133/)** | **[Blog](https://medium.com/@alexandra_79686)** |  **[Projects](https://github.com/AlexMcCarroll/CV#projects)** | **[Work Experience](https://github.com/AlexMcCarroll/CV#work-experience)** | **[Education](https://github.com/AlexMcCarroll/CV#education)** | **[Volunteer Experience](https://github.com/AlexMcCarroll/CV#volunteer-experience)** | **[Personal](https://github.com/AlexMcCarroll/CV#personal-achievements)**
 
-I am a full-stack software developer who is keen to learn new technologies! In a previous life I read History which provided me with an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and reservist military training has made me a confident, team player with a high degree of personal perseverance.
+I am a full-stack software developer who is keen to learn new technologies! In a previous life I read History which provided me with an analytical set of skills, enabling me to efficiently read, decipher, and condense information. Additionally, my sporting, leadership and reservist military training has made me a confident team player with a high degree of personal perseverance.
 
 ## Projects
 
@@ -9,26 +9,25 @@ I am a full-stack software developer who is keen to learn new technologies! In a
 |-------------|---------|-----------|--------|---------|
 | Python Testing Framework | DrSerpent🐍 is an easy to use testing framework for Python, focusing on Behaviour Driven Development and Test Driven Development processes. This was our final project with Makers Academy and was built in 10 days. DrSerpent has ten matchers and can be installed by running `pip install drserpent`. | Python | DrSerpent (tested within itself). | [Github Repo](https://github.com/DrSerpent/DrSerpent), [PyPi](https://pypi.org/project/drserpent/) |
 | Full$taxx Acebook | A social network app built for a two-week team project at Makers Academy. A more complex web app with multiple database relationships, user authentication, posting, uploading and storing images. We implemented a continuous integration/deployment pipeline via Travis CI to both staging and production servers on amazon web services. | Ruby on Rails, AWS Continuous Deployment, HTML/CSS, JavaScript, JQuery, Paperclip, Devise, Travis CI | Rspec, Cabybara, Selenium, simpleCov, CodeClimate | [Acebook site](http://acebook-fullstaxx-env.muc2hwru9t.eu-west-2.elasticbeanstalk.com), [Github Repo](https://github.com/AlexMcCarroll/acebook-FullStaxx), [Blog](https://medium.com/full-taxx) |
-| Bookmark manager | A web app that stores web bookmarks in a database developed implementing MVC principles. | Ruby, Rake, PostgreSQL, TablePlus, HTML/CSS | Rspec, Capybara | [Github Repo](https://github.com/AlexMcCarroll/bookmark-manager) |
+| Bookmark manager | A web app that stores web bookmarks in a SQL database developed implementing MVC principles. | Ruby, Rake, PostgreSQL, TablePlus, HTML/CSS | Rspec, Capybara | [Github Repo](https://github.com/AlexMcCarroll/bookmark-manager) |
 | Bank Tech Test | Individually, I built a command line application in Ruby that implements complex logic which allows the user to deposit and withdraw money from an account where all their account details are stored in an array. The account history is printed on the command line in order for the user to view their bank balance. Transactions are ordered from the newest to oldest. This project was developed using single responsibility principles, and encapsulation. | Ruby | Rspec | [Bank Repo](https://github.com/AlexMcCarroll/bank-tech-test) |
-| 3AI-BnB | This was a team project at Makers Academy where we built a full-stack web application, mimicking AirBnB whilst using new technologies. | Javascript, Node.js, Express, HTML/CSS | Jasmine, Mocha, Chai, Zombie | [3AI-BnB Repo](https://github.com/AlexMcCarroll/3AI-BnB) |
 
 ## Skills
 
-- Core Technologies: Ruby, Rails, Sinatra, JavaScript, JQuery, Node.js, Python
-- Testing Frameworks: RSpec, Capybara, Selenium, Jasmine, Mocha, Chai, Zombie, simpleCov, CodeClimate, Unittest, DrSerpent🐍
-- Databases: PostgreSQL, TablePlus, SQL Server, MongoDB
+- Core Technologies: Ruby, Rails, Sinatra, JavaScript, JQuery, Python
+- Testing Frameworks: RSpec, Capybara, Selenium, Jasmine, Mocha, Chai, Zombie, simpleCov, CodeClimate, Unittest, (DrSerpent🐍)
+- Databases: PostgreSQL, SQL Server, MongoDB
 - Deployment: AWS, Heroku, Travis CI
 - Version Control: Git, Github
 
 ### Problem Solving
-My process when I attempt to problem solve starts with breaking down the problem into smaller problems and translating them into 'layman's terms' and then I endeavor to solve those smaller issues in the simplest way possible. 
+I start by breaking down the problem into smaller issues, translating them into 'layman's terms' and then I endeavour to solve those smaller issues in the simplest way possible.
 
 ### Empathy
-In both my professional and personal life I strive to view a situation from another person's perspective in order to understand their actions and behaviour. This method has really helped me to connect with many different personality types. 
+In both my professional and personal life I strive to view a situation from another person's perspective in order to understand their actions and behaviour. This method has really helped me to connect with many different personality types.
 
 ### Communication & Teamwork
-I consider myself to be both friendly and assertive which helps when working in a team because I feel as if I can easily communicate with other team members about what I am thinking, also I often mind I am good at mediating conversations when people disagree on a particular idea or task.
+I consider myself to be both friendly and assertive which helps when working in a team because I can easily communicate my thought process to other team members, also I often find I am skilled at mediating conversations when people disagree on a particular idea or task.
 
 ## Work Experience
 
@@ -50,7 +49,8 @@ I consider myself to be both friendly and assertive which helps when working in 
 **Standard Chartered Bank, Hong Kong** (December 2012 and August 2013)      
 *Intern*
 - Kept minutes for meetings with clients for the brand management team. 
-- Tasked to develop and present a brand audit.
+- Tasked to develop a brand audit in three days and present it to the team.
+- Exposed to many different people from different divisions within the bank.
 
 ## Education
 
@@ -107,4 +107,4 @@ I consider myself to be both friendly and assertive which helps when working in 
 - Hong Kong permanent residency
 
 ## About Me
-Born and raised in Hong Kong, I attended Fettes College in Edinburgh on an all-rounder scholarship. I then went on to read History at the University of Exeter where I was awarded a second class, first honours degree. I enjoy traveling and in the last year, I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling, and running keep me active, and I also enjoy skiing, ski-touring, sailing, diving, rock climbing, hiking, and triathlon.
+Born and raised in Hong Kong, I attended Fettes College in Edinburgh on an all-rounder scholarship. I then went on to read History at the University of Exeter. Other than history books I love to read anything from novels, to newspapers, to blog posts. I adore both fiction and non-fiction, but definitely prefer the latter! I also enjoy travelling and in the last year I have visited Western and Central Europe, Asia, and South America. Most recently, this November I visited the headquarters of the Christina Noble’s Foundation in Ho Chi Minh City, Vietnam. Swimming, cycling, and running keep me active, and I also enjoy skiing, ski- touring, sailing, diving, rock climbing, hiking, and triathlon.
